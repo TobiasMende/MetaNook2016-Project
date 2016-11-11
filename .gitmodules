@@ -1,0 +1,3 @@
+[submodule "MyModule"]
+	path = MyModule
+	url = git@github.com:TobiasMende/MetaNook2016-Submodule.git
